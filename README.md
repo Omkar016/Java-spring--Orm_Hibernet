@@ -1,0 +1,1 @@
+This project is a console-based application that demonstrates CRUD (Create, Read, Update, Delete) operations using Spring ORM with Hibernate . It provides a simple yet effective implementation of data persistence and management using Java and Spring Framework technologies.
